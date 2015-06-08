@@ -1,2 +1,2 @@
 # AOJ
-AOJで解いた問題のコード
+Aizu Online Judge で解いた問題のコード
